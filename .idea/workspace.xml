@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b995f19-bc58-489f-ac79-57497db197f0" name="Changes" comment="Supporting parameters unit tests.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ec/edu/epn/git/calculator/CalculatorExecute.java" afterDir="false" />
+    <list default="true" id="5b995f19-bc58-489f-ac79-57497db197f0" name="Changes" comment="Adding calculator Execute.&#10;Adding calculator java archiver .jar">
+      <change beforePath="$PROJECT_DIR$/src/main/java/ec/edu/epn/git/calculator/CalculatorExecute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/epn/git/calculator/CalculatorExecute.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +122,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700977749967</updated>
-      <workItem from="1700977751240" duration="930000" />
+      <workItem from="1700977751240" duration="3400000" />
     </task>
     <task id="LOCAL-00001" summary="Adding calculator class and unit test.">
       <option name="closed" value="true" />
@@ -140,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700978511076</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adding calculator Execute.&#10;Adding calculator java archiver .jar">
+      <option name="closed" value="true" />
+      <created>1700979241504</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700979241505</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,17 +180,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding calculator class and unit test." />
     <MESSAGE value="Supporting parameters unit tests." />
-    <option name="LAST_COMMIT_MESSAGE" value="Supporting parameters unit tests." />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ec/edu/epn/git/calculator/CalculatorExecute.java</url>
-          <line>3</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Adding calculator Execute.&#10;Adding calculator java archiver .jar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding calculator Execute.&#10;Adding calculator java archiver .jar" />
   </component>
 </project>
