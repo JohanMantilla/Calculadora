@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b995f19-bc58-489f-ac79-57497db197f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ec/edu/epn/git/calculator/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ec/edu/epn/git/calculator/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="5b995f19-bc58-489f-ac79-57497db197f0" name="Changes" comment="Supporting parameters unit tests.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ec/edu/epn/git/calculator/CalculatorExecute.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -64,7 +62,20 @@
       <recent name="ec.edu.epn.git.calculator" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorParametersTest">
+  <component name="RunManager" selected="Application.CalculatorExecute">
+    <configuration name="CalculatorExecute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ec.edu.epn.git.calculator.CalculatorExecute" />
+      <module name="sample-calculator-git" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ec.edu.epn.git.calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CalculatorParametersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="sample-calculator-git" />
       <extension name="coverage">
@@ -97,6 +108,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculatorExecute" />
         <item itemvalue="JUnit.CalculatorParametersTest" />
         <item itemvalue="JUnit.CalculatorTest" />
       </list>
@@ -110,11 +122,67 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700977749967</updated>
-      <workItem from="1700977751240" duration="375000" />
+      <workItem from="1700977751240" duration="930000" />
     </task>
+    <task id="LOCAL-00001" summary="Adding calculator class and unit test.">
+      <option name="closed" value="true" />
+      <created>1700978229880</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700978229880</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Supporting parameters unit tests.">
+      <option name="closed" value="true" />
+      <created>1700978511075</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700978511076</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding calculator class and unit test." />
+    <MESSAGE value="Supporting parameters unit tests." />
+    <option name="LAST_COMMIT_MESSAGE" value="Supporting parameters unit tests." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ec/edu/epn/git/calculator/CalculatorExecute.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
