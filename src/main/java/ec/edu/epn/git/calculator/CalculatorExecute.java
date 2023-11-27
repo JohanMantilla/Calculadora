@@ -17,6 +17,7 @@ public class CalculatorExecute {
         System.out.println("INTEGRANTES GR4: Erick Cabezas, Johan Mantilla, Sebastian Moyano, Christopher Zambrano");
         System.out.println("Commit y push hecho por Sebastian Moyano");
         System.out.println("Commit y push hecho por Christopher Zambrano");
+        System.out.println("Commit y push hecho por Erick Cabezas");
     }
 
 }
