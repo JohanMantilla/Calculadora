@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b995f19-bc58-489f-ac79-57497db197f0" name="Changes" comment="Commit hecho por Sebastian Moyano y creado nuevo .jar">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+    <list default="true" id="5b995f19-bc58-489f-ac79-57497db197f0" name="Changes" comment="PRUEBA">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ec/edu/epn/git/calculator/CalculatorExecute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/epn/git/calculator/CalculatorExecute.java" afterDir="false" />
     </list>
@@ -130,7 +128,7 @@
       <workItem from="1701056342899" duration="433000" />
       <workItem from="1701129100881" duration="2309000" />
       <workItem from="1701268325255" duration="1049000" />
-      <workItem from="1701302901300" duration="196000" />
+      <workItem from="1701302901300" duration="836000" />
     </task>
     <task id="LOCAL-00001" summary="Adding calculator class and unit test.">
       <option name="closed" value="true" />
@@ -156,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700979241505</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="PRUEBA">
+      <option name="closed" value="true" />
+      <created>1701303133475</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701303133475</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +195,7 @@
     <MESSAGE value="Adding calculator class and unit test." />
     <MESSAGE value="Supporting parameters unit tests." />
     <MESSAGE value="Adding calculator Execute.&#10;Adding calculator java archiver .jar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding calculator Execute.&#10;Adding calculator java archiver .jar" />
+    <MESSAGE value="PRUEBA" />
+    <option name="LAST_COMMIT_MESSAGE" value="PRUEBA" />
   </component>
 </project>
