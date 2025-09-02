@@ -161,14 +161,6 @@ Tests run: 6, Failures: 0, Errors: 0, Skipped: 0
 - Sebastian Moyano
 - Christopher Zambrano
 
-## 🤝 Contribuir
-
-1. Haz fork del proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/nueva-funcionalidad`)
-3. Confirma tus cambios (`git commit -am 'Agrega nueva funcionalidad'`)
-4. Sube la rama (`git push origin feature/nueva-funcionalidad`)
-5. Abre un Pull Request
-
 ## 📝 Historial de Versiones
 
 - **v1.0-SNAPSHOT**: Versión inicial con operaciones básicas y pruebas unitarias
@@ -178,11 +170,5 @@ Tests run: 6, Failures: 0, Errors: 0, Skipped: 0
 - La función `division()` realiza división entera cuando se utilizan parámetros enteros
 - El método `timeout()` utiliza `Thread.sleep()` y puede lanzar `InterruptedException`
 - Las pruebas incluyen validación de excepciones y límites de tiempo
-
-## 📄 Licencia
-
-Este proyecto es parte de un ejercicio académico de la Escuela Politécnica Nacional.
-
----
 
 **Escuela Politécnica Nacional** - Proyecto de Calculadora con Git y Maven
